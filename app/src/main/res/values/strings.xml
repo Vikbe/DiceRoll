@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DiceRoll</string>
+    <string name="background_image">Background image</string>
+    <string name="get_started">Get Started!</string>
+    <string name="dice_roll">Dice Roll</string>
+    <string name="roll">ROLL!</string>
+    <string name="rolled1">You rolled a 1!</string>
+    <string name="rolled2">You rolled a 2!</string>
+    <string name="rolled3">You rolled a 3!</string>
+    <string name="rolled4">You rolled a 4!</string>
+    <string name="rolled5">You rolled a 5!</string>
+    <string name="rolled6">You rolled a 6!</string>
+    <string name="dice">dice</string>
+</resources>
